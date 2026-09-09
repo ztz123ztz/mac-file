@@ -1,0 +1,9 @@
+{
+  "version": "2.8",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "ccb2db602565d9798fafd9d978eed40b8a29818ec2c6c361f1db0e7a04e78bfb",
+  "key_changed": false,
+  "files": [
+    "mac-2.8.tar.gz.enc"
+  ]
+}

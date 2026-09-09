@@ -1,0 +1,7 @@
+{
+  "latest": "2.8",
+  "bundle": "mac-2.8.tar.gz.enc",
+  "key_fingerprint": "c283693c737a0bb5",
+  "key_changed": false,
+  "notes": "public version manifest for --check-update"
+}
