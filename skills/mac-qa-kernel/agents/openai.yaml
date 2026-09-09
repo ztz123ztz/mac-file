@@ -1,0 +1,4 @@
+interface:
+  display_name: "MAC Qa-kernel"
+  short_description: "MAC mac-qa-kernel standalone skill."
+  default_prompt: "Use $mac-qa-kernel for its documented task."

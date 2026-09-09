@@ -1,0 +1,4 @@
+interface:
+  display_name: "MAC Drafting"
+  short_description: "MAC mac-drafting standalone skill."
+  default_prompt: "Use $mac-drafting for its documented task."

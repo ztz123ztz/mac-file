@@ -1,0 +1,4 @@
+interface:
+  display_name: "MAC Bom"
+  short_description: "MAC mac-bom standalone skill."
+  default_prompt: "Use $mac-bom for its documented task."

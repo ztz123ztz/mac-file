@@ -1,0 +1,4 @@
+interface:
+  display_name: "MAC Spec"
+  short_description: "MAC mac-spec standalone skill."
+  default_prompt: "Use $mac-spec for its documented task."

@@ -1,0 +1,50 @@
+{
+  "skills": {
+    "mac-bom": {
+      "files": {
+        "mac-bom/LICENSE": "b0d5bf2263928b3c6e536e1791e1820b991ee4c6c74568e5710026c62b8c8c29",
+        "mac-bom/SKILL.md": "e9b00251b44455744370b975612950d404835df440c9a7ef4e930e062a8e1975",
+        "mac-bom/agents/openai.yaml": "a1a52925138bf7d71cfc7ae094ab2be96df0c5d759a14d4c80e3c71eae899bcb",
+        "mac-bom/references/usage.md": "96fe7ba1d6070317aeb6e899ad4a181947031a6da1e1a0f978a68714a3b23361",
+        "mac-bom/requirements.txt": "69c99c7f2b2c07270296169c2bce59fcc21516d7b52432f603471db5bc7e94c4",
+        "mac-bom/scripts/bom.py": "307f6d128d39cad1ed9c6c983294bc46119d16fe326e28a21e76fd9bc879dc9d",
+        "mac-bom/scripts/standards_tables.py": "8af8ae2794a970ad17143b129c4f39bb7c0cda7254963820ede418fb2914c889"
+      },
+      "count": 7
+    },
+    "mac-drafting": {
+      "files": {
+        "mac-drafting/LICENSE": "b0d5bf2263928b3c6e536e1791e1820b991ee4c6c74568e5710026c62b8c8c29",
+        "mac-drafting/SKILL.md": "4a7b36d956d956003ee43c2b53200d51ee51a71adbc2a68a9368a885798f2441",
+        "mac-drafting/agents/openai.yaml": "4a053f56e2a29a7f6515460f81d5ab3a41937194aefd67b089b0400d45412256",
+        "mac-drafting/references/usage.md": "bf9e2ab8d2ff6d3a101f6b0f3db52a7bb71eb52fbce00e7befca626b9dad11d1",
+        "mac-drafting/requirements.txt": "f1dc4f2c27481fa92df1b478c8b9b5dcce9b2ce6d844eccbc75b71d34ba74b40",
+        "mac-drafting/scripts/drafting.py": "0d226075a8f7cc00b71533093488df8b7c83bbba93ec85b298678a2d2176251b"
+      },
+      "count": 6
+    },
+    "mac-qa-kernel": {
+      "files": {
+        "mac-qa-kernel/LICENSE": "b0d5bf2263928b3c6e536e1791e1820b991ee4c6c74568e5710026c62b8c8c29",
+        "mac-qa-kernel/SKILL.md": "3f7faef9681949e9a76e2bb4147f44f8eace7007e83919cbbfa24e53acf86a29",
+        "mac-qa-kernel/agents/openai.yaml": "7db21fddf4b949426dbdd5439e59362234153c99e2b39b6cd8b7a9e70f767b92",
+        "mac-qa-kernel/references/usage.md": "0f67aaf697ec821f6c6dff2525675faa4364979c98ee780410d71ee85cee17b5",
+        "mac-qa-kernel/requirements.txt": "69c99c7f2b2c07270296169c2bce59fcc21516d7b52432f603471db5bc7e94c4",
+        "mac-qa-kernel/scripts/qa_kernel.py": "c7583c9b63646dfb8d355b51f865e5e357b053604da461fc289af441c6ae7d68",
+        "mac-qa-kernel/scripts/standards_tables.py": "8af8ae2794a970ad17143b129c4f39bb7c0cda7254963820ede418fb2914c889"
+      },
+      "count": 7
+    },
+    "mac-spec": {
+      "files": {
+        "mac-spec/LICENSE": "b0d5bf2263928b3c6e536e1791e1820b991ee4c6c74568e5710026c62b8c8c29",
+        "mac-spec/SKILL.md": "1644fcf2aaa76757e145b0c70eeab389878f4e24dfee84eb9e4575d4aa718bb4",
+        "mac-spec/agents/openai.yaml": "01fa737ef29826adfa009df9c399b00e1f63d6dca58c98f188371a6143c9af5a",
+        "mac-spec/references/usage.md": "062f9ef0c587b8980829297545782e1d48efbbed398b30de7be60a78381fc192",
+        "mac-spec/requirements.txt": "772e509f40ec50669f44a528aa615804918e7a1709be4629a27106d8f4abd729",
+        "mac-spec/scripts/spec.py": "f302c291a2a787b1cc1cfe866b50fc03acc67645e877a857fc5784a6b21e90ea"
+      },
+      "count": 6
+    }
+  }
+}
