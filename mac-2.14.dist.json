@@ -1,0 +1,9 @@
+{
+  "version": "2.14",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "8b7c58e960865eeacaf60eeea5327e9e71fdcf381096b5db41f8eebd62c9799e",
+  "key_changed": false,
+  "files": [
+    "mac-2.14.tar.gz.enc"
+  ]
+}
