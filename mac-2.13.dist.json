@@ -1,0 +1,9 @@
+{
+  "version": "2.13",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "ea4ff8cd77b7d032f6da4dff9aa94ab7b10a05d3f272ecb25fb33066d1c80a8b",
+  "key_changed": false,
+  "files": [
+    "mac-2.13.tar.gz.enc"
+  ]
+}
