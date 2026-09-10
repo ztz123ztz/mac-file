@@ -1,0 +1,9 @@
+{
+  "version": "2.16",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "b65e01e8334279981193c46279d47560522fd775f2d44f68e18fdd9a122bc512",
+  "key_changed": false,
+  "files": [
+    "mac-2.16.tar.gz.enc"
+  ]
+}
