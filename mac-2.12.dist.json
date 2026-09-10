@@ -1,0 +1,9 @@
+{
+  "version": "2.12",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "7d6ae1b1812e78c1e3808c43ad6194ef51e70933877921cd829a34511bee9877",
+  "key_changed": false,
+  "files": [
+    "mac-2.12.tar.gz.enc"
+  ]
+}
