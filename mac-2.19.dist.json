@@ -1,0 +1,9 @@
+{
+  "version": "2.19",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "36084571aa770757c047b4fac20ac2d3ea48915d38ffa6b23a301db7b4eb8b6a",
+  "key_changed": false,
+  "files": [
+    "mac-2.19.tar.gz.enc"
+  ]
+}
