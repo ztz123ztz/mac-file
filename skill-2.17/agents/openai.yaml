@@ -1,0 +1,4 @@
+interface:
+  display_name: "MAC"
+  short_description: "Run the full MAC text-to-CAD pipeline."
+  default_prompt: "Use $mac to build or modify CAD models end-to-end."
