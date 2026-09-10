@@ -1,0 +1,9 @@
+{
+  "version": "2.15",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "cc344622f8e71b5efc63d0d467c6ef0a844fe8adbcbb1afd5e02e8156d378756",
+  "key_changed": false,
+  "files": [
+    "mac-2.15.tar.gz.enc"
+  ]
+}
