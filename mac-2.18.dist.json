@@ -1,0 +1,9 @@
+{
+  "version": "2.18",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "2a8ff4ac72ad479ba712d5b5e27941c0f56d1803359c4f1a45af16d4e736d73b",
+  "key_changed": false,
+  "files": [
+    "mac-2.18.tar.gz.enc"
+  ]
+}
