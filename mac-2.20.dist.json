@@ -1,0 +1,9 @@
+{
+  "version": "2.20",
+  "key_fingerprint": "c283693c737a0bb5",
+  "sha256": "722d94c430981a22964a947a2d481751b36afa26130d52e061689f7135815988",
+  "key_changed": false,
+  "files": [
+    "mac-2.20.tar.gz.enc"
+  ]
+}
